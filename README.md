@@ -1,7 +1,7 @@
 
 #  Criando um Wireframe de Média Fidelidade
 
-Wareframescriados para o desafio de UI/UX design da DIO
+Wareframes criados para o desafio de UI/UX design da DIO
 
 
 
